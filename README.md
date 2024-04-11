@@ -29,5 +29,5 @@ This application aims to make database interactions more intuitive and accessibl
 ## Usage
 - **Start the application**:
   ```sh
-  Streamlit run app.py
+  Streamlit run main.py
   ```
