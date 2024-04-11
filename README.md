@@ -19,8 +19,9 @@ This application aims to make database interactions more intuitive and accessibl
    ```sh
    cd chat-with-mysql-database
    ```
+3. **Creating Database : Run MySQL server(XAMPP/MySQL workbench) and execute `database.sql` file.**
 
-3. **Install dependencies**:
+4. **Install dependencies**:
    ```sh
    pip install -r requirements.txt
    ```
