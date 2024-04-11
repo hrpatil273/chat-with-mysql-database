@@ -1,5 +1,5 @@
 # Chat with the SQL Database
-
+![Chat with the SQL Database](reference_image.png)
 ## Overview
 "Chat with the SQL Database" leverages a Large Language Model (LLM) to facilitate interactive, natural language conversations with a SQL database. 
 This application aims to make database interactions more intuitive and accessible for users of all technical levels.
